@@ -1,3 +1,5 @@
 # GTS
 Graduate Thesis System
-![01](https://github.com/user-attachments/assets/22fba254-596a-4f99-8c46-6a37801d54eb)
+##Features
+### Update Edit Delete
+![image](https://github.com/user-attachments/assets/9d9843b6-be07-4e23-bd7a-336aaacae647)
